@@ -1,0 +1,22 @@
+# Core
+python-dotenv>=1.0.1
+tqdm>=4.66.4
+
+# LangChain & ecosystem
+langchain>=0.2.16
+langchain-community>=0.2.12
+langchain-openai>=0.1.22
+langgraph>=0.2.34
+langsmith>=0.1.98
+
+# Vector DB
+chromadb>=0.5.5
+
+# Data
+datasets>=2.19.0
+
+# UI
+streamlit>=1.38.0
+
+# Optional eval
+scikit-learn>=1.5.1

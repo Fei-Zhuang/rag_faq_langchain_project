@@ -1,0 +1,13 @@
+# venv & caches
+.venv/
+__pycache__/
+*.pyc
+
+# local data/vector DB
+vectorstore/
+
+# secrets
+.env
+
+# streamlit cache
+.streamlit/
